@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+pandas
+polars
+scikit-learn
+hopsworks
+hsfs
+jupyter
+matplotlib
+streamlit
+tqdm
+faiss-cpu    # or faiss-gpu if CUDA available
